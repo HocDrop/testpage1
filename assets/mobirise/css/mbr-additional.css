@@ -1778,12 +1778,17 @@ body {
 .cid-qtj6k09Q8j .mbr-section-subtitle {
   color: #232323;
 }
+.cid-qtj6k09Q8j H2 {
+  color: #f7ed4a;
+}
 .cid-qtj82UOpix {
+  padding-top: 0px;
+  padding-bottom: 0px;
   background: #ffffff;
+  background: linear-gradient(45deg, #ffffff, #149dcc);
 }
 .cid-qtj82UOpix .image-block {
   margin: auto;
-  width: 100% !important;
 }
 .cid-qtj82UOpix .mbr-figure {
   margin: 0 auto;
