@@ -1,4 +1,4 @@
-@import url(../../../https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 
 
 
@@ -1781,15 +1781,15 @@ body {
 .cid-qtj6k09Q8j H2 {
   color: #f7ed4a;
 }
-.cid-qtOcKyY87g {
+.cid-qtOe3xafbL {
   background: #ffffff;
 }
-.cid-qtOcKyY87g .video-block {
+.cid-qtOe3xafbL .video-block {
   margin: auto;
   width: 100% !important;
 }
 @media (max-width: 768px) {
-  .cid-qtOcKyY87g .video-block {
+  .cid-qtOe3xafbL .video-block {
     width: 100% !important;
   }
 }
